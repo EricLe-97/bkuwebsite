@@ -4,7 +4,7 @@
                 <img src="image/logobk.png" width="50px" height="50px">
             </div>
             <div class="copyright">
-                <p>&copy; 2019. Eric. All Rights Reserved</p>
+                <p>&copy; 2020. All Rights Reserved</p>
             </div>
             <div style="float:right;">
                 <?php  include "scroll-top.php"  ?>
