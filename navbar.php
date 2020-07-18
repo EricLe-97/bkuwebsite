@@ -3,32 +3,32 @@
     <div class="container text-center">
       <ul class="navbar-nav ">
           <li class="nav-item active uppercase">
-              <a class="nav-link" href="#">Home</a>
+              <a class="nav-link" href="index.php">Home</a>
           </li>  
           
           <li class="nav-item active dropdown ">
             <a class="nav-link dropdown-toggle test uppercase" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Mens
+              Laptop
             </a>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu">
-                <a class="test" tabindex="-1" href="#">Clothes <span class="caret"></span></a>
+                <a class="test" tabindex="-1" href="#">Laptop <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a tabindex="-1" href="?page=product">Tops & T-Shirts</a></li>
-                  <li><a tabindex="-1" href="#">Hoodies & Sweatshirts</a></li>
-                  <li><a tabindex="-1" href="#">Jackets & Gilets</a></li>
-                  <li><a tabindex="-1" href="#">Shorts</a></li>
-                  <li><a tabindex="-1" href="#">Caps</a></li>
+                  <li><a tabindex="-1" href="?page=product">Asus</a></li>
+                  <li><a tabindex="-1" href="#">Acer</a></li>
+                  <li><a tabindex="-1" href="#">Dell</a></li>
+                  <li><a tabindex="-1" href="#">Mac</a></li>
+                  <li><a tabindex="-1" href="#">Lenovo</a></li>
                 </ul>  
               </li>
               <li class="dropdown-submenu">
-                <a class="test" tabindex="-1" href="#">Shoes <span class="caret"></span></a>
+                <a class="test" tabindex="-1" href="#">Accessories<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a tabindex="-1" href="#">Life style</a></li>
-                  <li><a tabindex="-1" href="#">Running</a></li>
-                  <li><a tabindex="-1" href="#">Basketball</a></li>
-                  <li><a tabindex="-1" href="#">Football</a></li>
-                  <li><a tabindex="-1" href="#">Jordan</a></li>
+                  <li><a tabindex="-1" href="#">Mouse</a></li>
+                  <li><a tabindex="-1" href="#">Key Board<i class="fa fa-keyboard-o"></i></a></li>
+                  <li><a tabindex="-1" href="#">Pad</a></li>
+                  <li><a tabindex="-1" href="#">Headset</a></li>
+                  <li><a tabindex="-1" href="#">Gaming accessories</a></li>
                 </ul>  
               </li>
             </ul>  
@@ -36,27 +36,27 @@
 
           <li class="nav-item active dropdown ">
             <a class="nav-link dropdown-toggle test uppercase" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Womens
+              FAQ
             </a>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu">
-                <a class="test" tabindex="-1" href="#">Clothes <span class="caret"></span></a>
+                <a class="test" tabindex="-1" href="#">Laptop <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a tabindex="-1" href="#">Tops & T-Shirts</a></li>
-                  <li><a tabindex="-1" href="#">Hoodies & Sweatshirts</a></li>
-                  <li><a tabindex="-1" href="#">Jackets & Gilets</a></li>
-                  <li><a tabindex="-1" href="#">Shorts</a></li>
-                  <li><a tabindex="-1" href="#">Caps</a></li>
+                  <li><a tabindex="-1" href="#">Refund</a></li>
+                  <li><a tabindex="-1" href="#">Cancel Order</a></li>
+                  <li><a tabindex="-1" href="#">Quaranty</a></li>
+                  <li><a tabindex="-1" href="#">How to</a></li>
+                  <li><a tabindex="-1" href="#">Helps</a></li>
                 </ul>  
               </li>
               <li class="dropdown-submenu">
-                <a class="test" tabindex="-1" href="#">Shoes <span class="caret"></span></a>
+                <a class="test" tabindex="-1" href="#">Accessories <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a tabindex="-1" href="#">Life style</a></li>
-                  <li><a tabindex="-1" href="#">Running</a></li>
-                  <li><a tabindex="-1" href="#">Basketball</a></li>
-                  <li><a tabindex="-1" href="#">Football</a></li>
-                  <li><a tabindex="-1" href="#">Jordan</a></li>
+                  <li><a tabindex="-1" href="#">Refund</a></li>
+                  <li><a tabindex="-1" href="#">Cancel Order</a></li>
+                  <li><a tabindex="-1" href="#">Quaranty</a></li>
+                  <li><a tabindex="-1" href="#">How to</a></li>
+                  <li><a tabindex="-1" href="#">Helps</a></li>
                 </ul>  
               </li>
             </ul>  
@@ -64,27 +64,33 @@
 
           <li class="nav-item active dropdown ">
             <a class="nav-link dropdown-toggle test uppercase" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Kids
+              Apple
             </a>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu">
-                <a class="test" tabindex="-1" href="#">Clothes <span class="caret"></span></a>
+                <a class="test" tabindex="-1" href="#">Macbook <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a tabindex="-1" href="#">Tops & T-Shirts</a></li>
-                  <li><a tabindex="-1" href="#">Hoodies & Sweatshirts</a></li>
-                  <li><a tabindex="-1" href="#">Jackets & Gilets</a></li>
-                  <li><a tabindex="-1" href="#">Shorts</a></li>
-                  <li><a tabindex="-1" href="#">Caps</a></li>
+                  <li><a tabindex="-1" href="#">2016</a></li>
+                  <li><a tabindex="-1" href="#">2017</a></li>
+                  <li><a tabindex="-1" href="#">2018</a></li>
+                  <li><a tabindex="-1" href="#">2019</a></li>
+                  <li><a tabindex="-1" href="#">2020</a></li>
                 </ul>  
               </li>
               <li class="dropdown-submenu">
-                <a class="test" tabindex="-1" href="#">Shoes <span class="caret"></span></a>
+                <a class="test" tabindex="-1" href="#">Iphone/Ipad <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a tabindex="-1" href="#">Life style</a></li>
-                  <li><a tabindex="-1" href="#">Running</a></li>
-                  <li><a tabindex="-1" href="#">Basketball</a></li>
-                  <li><a tabindex="-1" href="#">Football</a></li>
-                  <li><a tabindex="-1" href="#">Jordan</a></li>
+                  <li><a tabindex="-1" href="#">Iphone </a></li>
+                  <li><a tabindex="-1" href="#">Ipad</a></li>
+                </ul>  
+              </li>
+              <li class="dropdown-submenu">
+                <a class="test" tabindex="-1" href="#">Imac <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a tabindex="-1" href="#">2018 </a></li>
+                  <li><a tabindex="-1" href="#">2019</a></li>
+                  <li><a tabindex="-1" href="#">2020</a></li>
+
                 </ul>  
               </li>
             </ul>  
