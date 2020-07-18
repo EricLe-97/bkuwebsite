@@ -2,22 +2,22 @@
   <h1 style="text-align: center;" >New releases</h1>  
   <div class="row">
     <figure class="col-sm-6">
-        <p><strong>Nike Air Max 270</strong></p>
-        <img src="image/new1.JPG">
+        <p><strong>macbook pro 13</strong></p>
+        <img src="image/apple/app1.png">
     </figure>
     <figure class="col-sm-6">
-        <p><strong>Jordan Mars 270</strong></p>
-        <img src="image/new2.JPG">
+        <p><strong>macbook air</strong></p>
+        <img src="image/apple/app2.png">
     </figure>
   </div>
   <div class="row"> 
     <figure class="col-sm-6">
-        <p><strong>Nike Air Max 200</strong></p>
-        <img src="image/new3.JPG">
+        <p><strong>macbook pro 16</strong></p>
+        <img src="image/apple/app3.png">
     </figure>
     <figure class="col-sm-6">
-        <p><strong>Nike Zoom Fly 3</strong></p>
-        <img src="image/new4.JPG">
+        <p><strong>Apple</strong></p>
+        <img src="image/apple/app4.png">
     </figure>
   </div>
 </section>
