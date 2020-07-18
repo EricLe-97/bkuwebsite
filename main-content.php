@@ -62,43 +62,36 @@
 
 <!-- Header -->
 <div class="header">
-  <h1>Nike Style</h1>
-  <p>All product suitable for men, women and kids</p>
+  <h1>Gear for Everyone</h1>
+  <p>All product suitable for everybody</p>
 </div>
 
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="image/Tshirt/Tshirt1.JPG" style="width:100%">
-    <img src="image/Tshirt/Tshirt2.JPG" style="width:100%">
-    <img src="image/Tshirt/Tshirt3.JPG" style="width:100%">
-    <img src="image/Tshirt/Tshirt4.JPG" style="width:100%">
-    <!-- <img src="image/Tshirt/Tshirt5.JPG" style="width:100%">
-    <img src="image/Tshirt/Tshirt6.JPG" style="width:100%"> -->
+    <img src="image/laptop/laptop1.png" style="width:100%">
+    <img src="image/laptop/laptop2.png" style="width:100%">
+    <img src="image/laptop/laptop3.png" style="width:100%">
+    <img src="image/laptop/laptop4.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="image/Cap/Cap1.JPG" style="width:100%">
-    <img src="image/Cap/Cap2.JPG" style="width:100%">
-    <img src="image/Cap/Cap3.JPG" style="width:100%">
-    <img src="image/Cap/Cap4.JPG" style="width:100%">
-    <!-- <img src="image/Cap/Cap5.JPG" style="width:100%">
-    <img src="image/Cap/Cap6.JPG" style="width:100%"> -->
+    <img src="image/headphone/headphone1.png" style="width:100%">
+    <img src="image/headphone/headphone2.png" style="width:100%">
+    <img src="image/headphone/headphone3.png" style="width:100%">
+    <img src="image/headphone/headphone4.png" style="width:100%">
   </div>  
   <div class="column">
-    <img src="image/Hoodie/Hoodie1.JPG" style="width:100%">
-    <img src="image/Hoodie/Hoodie2.JPG" style="width:100%">
-    <img src="image/Hoodie/Hoodie3.JPG" style="width:100%">
-    <img src="image/Hoodie/Hoodie4.JPG" style="width:100%">
-    <!-- <img src="image/Hoodie/Hoodie5.JPG" style="width:100%">
-    <img src="image/Hoodie/Hoodie6.JPG" style="width:100%"> -->
+    <img src="image/gamingroom/room1.jpeg" style="width:100%">
+    <img src="image/gamingroom/room2.jpg" style="width:100%">
+    <img src="image/gamingroom/room3.jpg" style="width:100%">
+    <img src="image/gamingroom/room4.jpg" style="width:100%">
+    <img src="image/gamingroom/room5.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="image/Bag/Bag1.JPG" style="width:100%">
-    <img src="image/Bag/Bag2.JPG" style="width:100%">
-    <img src="image/Bag/Bag3.JPG" style="width:100%">
-    <img src="image/Bag/Bag4.JPG" style="width:100%">
-    <!-- <img src="image/Bag/Bag5.JPG" style="width:100%">
-    <img src="image/Bag/Bag6.JPG" style="width:100%"> -->
+    <img src="image/gamingchair/chair1.png" style="width:100%">
+    <img src="image/gamingchair/chair2.png" style="width:100%">
+    <img src="image/gamingchair/chair3.png" style="width:100%">
+
   </div>
 </div>
 
