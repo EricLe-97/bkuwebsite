@@ -12,10 +12,10 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="image/cover1.jpg" alt="Los Angeles" style="width:100%; height:600px;">
+        <img src="image/1759763.jpg" alt="Los Angeles" style="width:100%; height:600px;">
         <div class="carousel-caption">
-          <h3>Los Angeles</h3>
-          <p>LA is always so much fun!</p>
+          <h3>Showroom</h3>
+          <p> Experience new products!</p>
         </div>
       </div>
 
