@@ -12,7 +12,7 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="image/1759763.jpg" alt="Los Angeles" style="width:100%; height:600px;">
+        <img src="image/1759763.jpg" alt="Showroom" style="width:100%; height:600px;">
         <div class="carousel-caption">
           <h3>Showroom</h3>
           <p> Experience new products!</p>
@@ -20,18 +20,18 @@
       </div>
 
       <div class="item">
-        <img src="image/cover2.jpg" alt="Chicago" style="width:100%; height:600px;">
+        <img src="image/sale1.png" alt="Mega Summer" style="width:100%; height:600px;">
         <div class="carousel-caption">
-          <h3>Chicago</h3>
-          <p>Thank you, Chicago!</p>
+          <h3>Mega Summer</h3>
+         
         </div>
       </div>
     
       <div class="item">
-        <img src="image/cover3.png" alt="New York" style="width:100%; height:600px;">
+        <img src="image/sale2.png" alt="Screen" style="width:100%; height:600px;">
         <div class="carousel-caption">
-          <h3>New York</h3>
-          <p>We love the Big Apple!</p>
+          <h3>Screen</h3>
+        
         </div>
       </div>
   
