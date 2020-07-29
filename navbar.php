@@ -12,7 +12,7 @@
             </a>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu">
-                <a class="test" tabindex="-1" href="#">Laptop <span class="caret"></span></a>
+                <a class="test" tabindex="-1">Laptop <span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a tabindex="-1" href="?page=product">Asus</a></li>
                   <li><a tabindex="-1" href="#">Acer</a></li>
@@ -40,14 +40,14 @@
             </a>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu">
-                <a class="test" tabindex="-1" href="#">Laptop <span class="caret"></span></a>
-                <ul class="dropdown-menu">
+                <a tabindex="-1" href="?page=trackorder">Tracking order </a>
+                <!-- <ul class="dropdown-menu">
                   <li><a tabindex="-1" href="#">Refund</a></li>
                   <li><a tabindex="-1" href="#">Cancel Order</a></li>
                   <li><a tabindex="-1" href="#">Quaranty</a></li>
                   <li><a tabindex="-1" href="#">How to</a></li>
                   <li><a tabindex="-1" href="#">Helps</a></li>
-                </ul>  
+                </ul>   -->
               </li>
               <li class="dropdown-submenu">
                 <a class="test" tabindex="-1" href="#">Accessories <span class="caret"></span></a>
@@ -68,7 +68,7 @@
             </a>
             <ul class="dropdown-menu">
               <li class="dropdown-submenu">
-                <a class="test" tabindex="-1" href="#">Macbook <span class="caret"></span></a>
+                <a class="test" tabindex="-1" href="?page=macbook">Macbook <span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a tabindex="-1" href="#">2016</a></li>
                   <li><a tabindex="-1" href="#">2017</a></li>

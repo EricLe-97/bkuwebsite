@@ -12,26 +12,26 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="image/1759763.jpg" alt="Showroom" style="width:100%; height:600px;">
+        <img src="image/carousel/cover1.jpg" alt="Black" style="width:100%; height:600px;">
         <div class="carousel-caption">
-          <h3>Showroom</h3>
-          <p> Experience new products!</p>
+          <h3>Simple</h3>
+          <p>Extraordinary</p>
         </div>
       </div>
 
       <div class="item">
-        <img src="image/sale1.png" alt="Mega Summer" style="width:100%; height:600px;">
+        <img src="image/carousel/cover2.jpg" alt="Chicago" style="width:100%; height:600px;">
         <div class="carousel-caption">
-          <h3>Mega Summer</h3>
-         
+          <h3>Elegent</h3>
+          <p>Thank you, for choosing us!</p>
         </div>
       </div>
     
       <div class="item">
-        <img src="image/sale2.png" alt="Screen" style="width:100%; height:600px;">
+        <img src="image/carousel/cover3.jpg" alt="New York" style="width:100%; height:600px;">
         <div class="carousel-caption">
-          <h3>Screen</h3>
-        
+          <h3>Razer</h3>
+          <p>Razer fan boy!</p>
         </div>
       </div>
   

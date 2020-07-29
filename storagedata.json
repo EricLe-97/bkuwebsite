@@ -1,0 +1,56 @@
+[
+   {
+       "id": 1,
+       "name": "asus",
+       "description": "This is an incredibly awesome product",
+       "quantity": 0,
+       "path": "image\/laptop\/laptop1.png",
+       "price": 25000000,
+       "rate": ["1","2","3"]
+   },
+   {
+       "id": 2,
+       "name": "asus",
+       "description": "This is an incredibly awesome product",
+       "quantity": 0,
+       "path": "image\/laptop\/laptop2.png",
+       "price": 60000000,
+       "rate": ["1","2","3"]
+   },
+   {
+       "id": 3,
+       "name": "asus",
+       "description": "This is an incredibly awesome product",
+       "quantity": 0,
+       "path": "image\/laptop\/laptop3.png",
+       "price": 35000000,
+       "rate": ["1","2","3"]
+   },
+   {
+       "id": 4,
+       "name": "asus",
+       "description": "This is an incredibly awesome product",
+       "quantity": 0,
+       "path": "image\/laptop\/laptop4.png",
+       "price": 40000000,
+       "rate": ["1","2","3"]
+   },
+   {
+      "id": 5,
+      "name": "asus",
+      "description": "This is an incredibly awesome product",
+      "quantity": 0,
+      "path": "image\/laptop\/laptop4.png",
+      "price": 40000000,
+      "rate": ["1","2","3"]
+  },
+  {
+    "id": 5,
+    "name": "asus",
+    "description": "This is an incredibly awesome product",
+    "quantity": 0,
+    "path": "image\/laptop\/laptop4.png",
+    "price": 40000000,
+    "rate": ["1","2","3"]
+  }
+]

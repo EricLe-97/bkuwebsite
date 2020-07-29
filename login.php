@@ -15,18 +15,28 @@
 		else{
 			$row=mysqli_fetch_array($query);
 			
-			if (isset($_POST['remember'])){
-				setcookie("user", $row['username'], time() + (10000));
+			if (isset($_POST['remember'])){?>
+
+				<script>
+					alert("remember checked!");
+				</script>
+				<?php
+				header('location:index.php?page=login-form');
+				
+				// setcookie("user", $row['username'], time() + (10000));
 			}
+			else{
 			
-			$_SESSION['name']=$row['username'];
-			$_SESSION['level'] = $row['class']; 
-			header('location:index.php');
+				$_SESSION['username']=$row['username'];
+				$_SESSION['email']=$row['email'];
+				$_SESSION['phonenumber'] = $row['phonenumber']; 
+				header('location:index.php');
+			}
 
 		}
 	}
 	else{
-		header('location:index.php');
+		//header('location:index.php');
 		$_SESSION['message']="Please Login!";
 	}
 ?>

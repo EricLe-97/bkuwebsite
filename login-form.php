@@ -30,6 +30,7 @@
     	</style>
 	</head>
 	<body>
+		<?php include "include.php"?>
 		<?php include "header.php"?>
 		<form method="POST" action="login.php" >
 			<fieldset>

@@ -48,8 +48,8 @@
 
 <body>
       <form method="GET" action="search-process.php">
- 	   <input type="text" id="search-box" name="search-box" placeholder="Find the product..." />
-	   <button class="btn btn-success"type="submit" id="search-button">Search</button>
+         <input type="text" id="search-box" name="search-box" placeholder="Find the product.." />
+         <button class="btn btn-outline-success my-2 my-sm-0" type="submit" id="search-button">Search</button>
          <div id="suggesstion-box" style="z-index:10;"></div>
       </form>
 

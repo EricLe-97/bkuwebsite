@@ -73,12 +73,16 @@
     <img src="image/laptop/laptop2.png" style="width:100%">
     <img src="image/laptop/laptop3.png" style="width:100%">
     <img src="image/laptop/laptop4.png" style="width:100%">
+    <!-- <img src="image/Tshirt/Tshirt5.JPG" style="width:100%">
+    <img src="image/Tshirt/Tshirt6.JPG" style="width:100%"> -->
   </div>
   <div class="column">
     <img src="image/headphone/headphone1.png" style="width:100%">
     <img src="image/headphone/headphone2.png" style="width:100%">
     <img src="image/headphone/headphone3.png" style="width:100%">
     <img src="image/headphone/headphone4.png" style="width:100%">
+    <!-- <img src="image/Cap/Cap5.JPG" style="width:100%">
+    <img src="image/Cap/Cap6.JPG" style="width:100%"> -->
   </div>  
   <div class="column">
     <img src="image/gamingroom/room1.jpeg" style="width:100%">
@@ -86,12 +90,17 @@
     <img src="image/gamingroom/room3.jpg" style="width:100%">
     <img src="image/gamingroom/room4.jpg" style="width:100%">
     <img src="image/gamingroom/room5.jpeg" style="width:100%">
+
+    <!-- <img src="image/Hoodie/Hoodie5.JPG" style="width:100%">
+    <img src="image/Hoodie/Hoodie6.JPG" style="width:100%"> -->
   </div>
   <div class="column">
     <img src="image/gamingchair/chair1.png" style="width:100%">
     <img src="image/gamingchair/chair2.png" style="width:100%">
     <img src="image/gamingchair/chair3.png" style="width:100%">
 
+    <!-- <img src="image/Bag/Bag5.JPG" style="width:100%">
+    <img src="image/Bag/Bag6.JPG" style="width:100%"> -->
   </div>
 </div>
 
