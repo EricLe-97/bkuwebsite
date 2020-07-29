@@ -56,9 +56,11 @@
     }
     function updateCart($conn,$updatecart,$username,$email,$phonenumber){
         
-        $check_exist = "SELECT `username` FROM `order` WHERE `username`=$username AND `status`='lefton' ";
+        $check_exist = "SELECT `username` FROM `order` WHERE `username`='$username' AND `status`='lefton' ";
         $check_query = mysqli_query($conn,$check_exist);
+        // $result = mysqli_fetch_assoc($check_query);
         $result = mysqli_fetch_assoc($check_query);
+
         if($result){
             $update_order_status = "UPDATE `order` SET ordercart='$updatecart' WHERE status='lefton' AND username='$username' AND email='$email' AND phonenumber='$phonenumber' ";
             $update_query = mysqli_query($conn,$update_order_status);
