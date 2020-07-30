@@ -1,7 +1,10 @@
 <?php 
     include "include.php";
+    include "header.php";
+    include "navbar.php";
 ?>
 <html>
+     <center>
     <div id="search">
         <input type="text" v-model="search">
         <h3> {{message}} </h3>
@@ -11,6 +14,7 @@
         <span style="border-radius:5px;border:1px solid black;text-align:center;font-weight:bold;padding:0 50px;"> {{product.quantity}}</span>
         </div>
     </div>
+     </center>
 </html>
 
 <script>

@@ -28,16 +28,18 @@
   <br><br><br><br>
 
   <div>
-      <h1 >Eric Le</h1>
+      <h1 >BKU Team</h1>
       <p><em>Click in more detail!</em></p><br>
       <a href="#demo" data-toggle="collapse">
-        <img src="image/avatar.jpg" class="img-circle person" alt="An Nguyen" width="200" height="200">
+        <img src="image/bkteam.jpg" class="img-circle person" alt="An Nguyen" width="200" height="200">
       </a>
       <div id="demo" class="collapse">
         <br><br>
         <p>Web Development Member</p>
         <p>Computer Science</p>
-        <p>xxxxxx</p>
+        <p>Lê Bá Thành -1552340 </p>
+	      <p>Trần Như Anh Vũ - 1752632 </p>
+	      <p> Lý Hưng Duy - 1652099 </p>
 
       </div>
     </div>
