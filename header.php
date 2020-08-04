@@ -1,11 +1,11 @@
 
 <?php if (isset($_SESSION['username'])){ ?>
-  <?php if (isset($_SESSION['level'])) {?>
+  <?php if ((isset($_SESSION['fb_username']))||isset($_SESSION['gg_username'])) {?>
       <html>
       <div class="header">
         <a class="logo" style="margin:5px;" href="index.php"><img src="image/logobk.png" width="80px" height="80px" ></a>
         <div class="header-right">
-          <strong style="font-size:20px; padding:15px;"><?php echo $_SESSION['username']; ?> </strong>
+          <strong style="font-size:20px; padding:15px;"><?php if(isset($_SESSION['fb_username'])){echo fb_username;}else{echo gg_username;}; ?> </strong>
           <button class="btn btn-info"><a href="?page=insert-form">INSERT</a></button>
           <button class="btn btn-warning"><a href="?page=logout">LOGOUT</a></button>
         </div>
@@ -67,7 +67,7 @@
         <div id="logout">
         <div class="header-right">
           <strong style="font-size:20px; padding:15px;"><?php echo $_SESSION['username']; ?> </strong>
-          <button class="btn btn-warning" @click="logout()" ><a href="?page=logout" >LOGOUT</a></button>
+          <button class="btn btn-warning" @click="logout()" ><a href="###" >LOGOUT</a></button>
         </div>
         </div>
         <div class="app">
@@ -501,6 +501,7 @@ const app = new Vue({
           // [0]:username
           // [1]:email
           // [2]:phonenumber
+          // console.log(data);
           axios.post('fetchorder.php',{
           updatecart: cartuser,
           uname: data[0],
@@ -508,6 +509,7 @@ const app = new Vue({
           phonenumber: data[2]
           })
           .then(res => {
+            console.log(res.data);
             if(res.data == '') {
               
               localStorage.removeItem('cartUser');

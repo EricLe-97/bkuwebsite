@@ -23,7 +23,7 @@ if(isset($_GET["code"]))
 
 
   $_SESSION['access_token'] = $token['access_token'];
-
+  $_SESSION['google_token'] = $_SESSION['access_token'];
 
   $google_service = new Google_Service_Oauth2($google_client);
 
@@ -34,11 +34,13 @@ if(isset($_GET["code"]))
   if(!empty($data['given_name']))
   {
    $_SESSION['user_first_name'] = $data['given_name'];
+   $_SESSION['gg_username'] = $data['given_name'];
   }
 
   if(!empty($data['family_name']))
   {
    $_SESSION['user_last_name'] = $data['family_name'];
+   $_SESSION['gg_username'] .= $data['family_name'];
   }
 
   if(!empty($data['email']))
@@ -87,6 +89,7 @@ if(!isset($_SESSION['access_token']))
    <?php
    if($login_button == '')
    {
+    header('location:index.php');
     echo '<div align="center" class="panel-heading">Welcome User</div><div class="panel-body">';
     echo '<div align="center"><img src="'.$_SESSION["user_image"].'" class="img-responsive img-circle img-thumbnail"/></div>';
     echo '<h3 align="center"><b>Name :</b> '.$_SESSION['user_first_name'].' '.$_SESSION['user_last_name'].'</h3>';
