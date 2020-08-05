@@ -1,5 +1,5 @@
 <?php 
 
-    include "google/indexGoogle.php";
+    include "loginGoogle/indexGoogle.php";
 
 ?>
