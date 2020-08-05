@@ -44,7 +44,7 @@
 			</fieldset>	
 		</form>
 		<h3 style="margin-left:480px;">OR</h3>
-		<button class="btn btn-warning" style = "margin-left:400px;background: #1a53ff; border-radius: 5px; color: white; display: block; font-weight: bold; padding: 20px; text-align: center; text-decoration: none; width: 200px;"><a style="color:white" href="?page=loginFacebook/">Login with Facebook</a></button>
+		<button class="btn btn-warning" style = "margin-left:400px;background: #1a53ff; border-radius: 5px; color: white; display: block; font-weight: bold; padding: 20px; text-align: center; text-decoration: none; width: 200px;"><a style="color:white" href="?page=loginFacebook">Login with Facebook</a></button>
 		<button class="btn btn-warning" style = "margin-left:400px;background: #dd4b39; border-radius: 5px; color: white; display: block; font-weight: bold; padding: 20px; text-align: center; text-decoration: none; width: 200px;"><a style="color:white" href="?page=loginGoogle">Login with Google</a></button>
 
 		<?php include "footer.php"?>
